@@ -1,0 +1,5 @@
+﻿Name,Bank Name,Account Number,Sort Code,Secondary Sort Code,BIC,IBAN,Email,Currency
+FilmYourEvent,Lloyds,12345678,321123,,1234,GB12LOYD12345678901234,,GBP
+Flat,Lloyds,23456789,321123,,,,,GBP
+Personal,Lloyds,34567890,321123,,,,,GBP
+Credit Card,,1234,,,,,,GBP
